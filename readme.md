@@ -90,7 +90,7 @@
 
 ## About Me 😀:
 Hello, my name is Adam Salem and I'm a programmer! I started coding 2 years ago.
-I'm a self taught programmer, and I love coding and new technologys like Arduino!
+I'm a self taught programmer, and I love coding and technology like Arduino!
 
 ---
 
