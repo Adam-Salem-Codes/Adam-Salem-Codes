@@ -1,7 +1,7 @@
 
 ---
 
-<img src="animation.svg"/>
+![Bruh](./animation.svg)
 
 ---
 
