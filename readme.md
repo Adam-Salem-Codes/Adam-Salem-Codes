@@ -94,7 +94,7 @@ I'm a self taught programmer, and I love coding and technology like Arduino!
 
 ---
 
-## Technologys/Topics I Am Interested In ⚙:
+## Technologies/Topics I Am Interested In ⚙:
 
 - Linear Algebra ➗
 
