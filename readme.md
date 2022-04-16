@@ -103,3 +103,5 @@ I'm a self taught programmer, and I love coding and technology like Arduino!
 - Homemade Robotics, without vEx. 🤖
 
 ---
+
+One last note the most used languages says that its JavaScript its not I'm still learning JavaScript the majority of the Javascript is from librarys
