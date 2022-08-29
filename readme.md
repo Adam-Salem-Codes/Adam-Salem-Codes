@@ -81,7 +81,7 @@
 
 ## GitHub Trophies 🏆:
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=ItzVoidYT&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ItzVoidYT&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
