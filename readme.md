@@ -5,9 +5,9 @@
 
 ---
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ItzVoidYT&show_icons=true&theme=discord_old_blurple"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Adam-Salem-Codes&show_icons=true&theme=discord_old_blurple"/>
 
-<img  align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzVoidYT&theme=discord_old_blurple&layout=compact" />
+<img  align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adam-Salem-Codes&theme=discord_old_blurple&layout=compact" />
 
 ## Programming Languages/Frameworks 👨‍💻:
 
