@@ -25,7 +25,7 @@
 
 ## Tools I Use 🔨:
 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ItzVoidYT)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adam-Salem-Codes)
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16263884/void)
 [![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)](https://www.eclipse.org)
@@ -74,14 +74,14 @@
 
 ## Repositories 📚:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItzVoidYT&theme=discord_old_blurple&repo=Vex-V5-2022)]()
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItzVoidYT&theme=discord_old_blurple&repo=Chrome-Search-History-Remover)]()
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Adam-Salem-Codes&theme=discord_old_blurple&repo=Vex-V5-2022)]()
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Adam-Salem-Codes&theme=discord_old_blurple&repo=Chrome-Search-History-Remover)]()
 
 ---
 
 ## GitHub Trophies 🏆:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ItzVoidYT&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Adam-Salem-Codes&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
