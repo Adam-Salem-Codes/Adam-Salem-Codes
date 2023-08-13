@@ -86,7 +86,7 @@
 ---
 
 ## About Me 😀:
-Hello, my name is Adam Salem and I'm a programmer! I started coding 2 years ago.
+Hello, my name is Adam Salem and I'm a programmer! I started coding in 2018-2019.
 I'm a self taught programmer, and I love coding and technology like Arduino!
 
 ---
@@ -97,6 +97,6 @@ I'm a self taught programmer, and I love coding and technology like Arduino!
 
 - Learning more in depth electronics and Arduino  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-- Homemade Robotics, without vEx. 🤖
+- Robotics with and without VEX 🤖
 
 ---
