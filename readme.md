@@ -1,7 +1,7 @@
 
 ---
 
-![Bruh](./animation.svg)
+![Animation to welcome you to my github readme](./animation.svg)
 
 ---
 
@@ -59,7 +59,7 @@
 
 [![Discord](https://img.shields.io/badge/Void%230897-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/aByjcGtn)
 [![YouTube](https://img.shields.io/badge/<Void%20Code>-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCuIrqV6EuBpg_s41Gkul81Q)
-[![YouTube](https://img.shields.io/badge/<GearGrindersRobotics>-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCq37_Ps2-IYieYUufi-yEoQ)
+[![YouTube](https://img.shields.io/badge/<12350X>-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCq37_Ps2-IYieYUufi-yEoQ)
 [![Twitter](https://img.shields.io/badge/<adam30750957>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/adam30750957)
 [![Twitter](https://img.shields.io/badge/<GearGrinders4>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/GearGrinders4)
 
@@ -75,7 +75,8 @@
 ## Repositories 📚:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Adam-Salem-Codes&theme=discord_old_blurple&repo=Vex-V5-2022)]()
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Adam-Salem-Codes&theme=discord_old_blurple&repo=Chrome-Search-History-Remover)]()
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Adam-Salem-Codes&theme=discord_old_blurple&repo=Vex-Autonomous-Selector)]()
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Adam-Salem-Codes&theme=discord_old_blurple&repo=CS50)]()
 
 ---
 
@@ -87,16 +88,16 @@
 
 ## About Me 😀:
 Hello, my name is Adam Salem and I'm a programmer! I started coding in 2018-2019.
-I'm a self taught programmer, and I love coding and technology like Arduino!
+I'm a self taught programmer, and I love coding and technology like Arduino! I'm also the programmer, builder, and team captain for 12350X, me and my friends vex robotics team.
 
 ---
 
 ## Technologies/Topics I Am Interested In ⚙:
 
-- Linear Algebra ➗
+- Mathematics
 
-- Learning more in depth electronics and Arduino  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+- Learning more in depth electronics and Arduino
 
-- Robotics with and without VEX 🤖
+- Robotics
 
 ---
