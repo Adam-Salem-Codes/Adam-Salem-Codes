@@ -74,8 +74,8 @@
 
 ## Repositories 📚:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Adam-Salem-Codes&theme=discord_old_blurple&repo=Vex-V5-2022)]()
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Adam-Salem-Codes&theme=discord_old_blurple&repo=Vex-Autonomous-Selector)]()
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Adam-Salem-Codes&theme=discord_old_blurple&repo=2072A-2024-2025)]()
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Adam-Salem-Codes&theme=discord_old_blurple&repo=Portfolio)]()
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Adam-Salem-Codes&theme=discord_old_blurple&repo=CS50)]()
 
 ---
