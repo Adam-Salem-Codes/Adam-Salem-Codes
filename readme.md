@@ -3,9 +3,13 @@
 
 ![Animation to welcome you to my github readme](./animation.svg)
 
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=Adam-Salem-Codes&show_icons=true&theme=discord_old_blurple"/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adam-Salem-Codes&theme=dark)
 
-<img  align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adam-Salem-Codes&theme=discord_old_blurple" />
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adam-Salem-Codes&theme=dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Adam-Salem-Codes&theme=dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adam-Salem-Codes&theme=dark)
 
 <img width="48%" src="https://codeium.com/profile/adam-salem-codes/card.png" />
 
