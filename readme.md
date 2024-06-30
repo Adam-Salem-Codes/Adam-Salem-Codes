@@ -55,16 +55,6 @@
 
 ---
 
-## How To Contact Me:
-
-[![Discord](https://img.shields.io/badge/Void%230897-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/aByjcGtn)
-[![YouTube](https://img.shields.io/badge/<Void%20Code>-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCuIrqV6EuBpg_s41Gkul81Q)
-[![YouTube](https://img.shields.io/badge/<12350X>-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCq37_Ps2-IYieYUufi-yEoQ)
-[![Twitter](https://img.shields.io/badge/<adam30750957>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/adam30750957)
-[![Twitter](https://img.shields.io/badge/<GearGrinders4>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/GearGrinders4)
-
----
-
 ## Music 🎵:
 
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
