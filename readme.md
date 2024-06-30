@@ -78,7 +78,7 @@
 
 ## About Me 😀:
 Hello, my name is Adam Salem and I'm a programmer! I started coding in 2018-2019.
-I'm a self taught programmer, and I love coding and technology like Arduino! I'm also the programmer, builder, and team captain for 12350X, me and my friends vex robotics team.
+I'm a self taught programmer, and I love coding and technology like Arduino!
 
 ---
 
