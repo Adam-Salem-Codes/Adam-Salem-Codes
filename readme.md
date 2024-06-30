@@ -5,9 +5,13 @@
 
 ---
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Adam-Salem-Codes&show_icons=true&theme=discord_old_blurple"/>
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=Adam-Salem-Codes&show_icons=true&theme=discord_old_blurple"/>
 
 <img  align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adam-Salem-Codes&theme=discord_old_blurple&layout=compact" />
+
+<img width="48%" src="https://codeium.com/profile/adam-salem-codes/card.png" />
+
+[![built with Codeium](https://codeium.com/badges/main)](https://codeium.com)
 
 ## Programming Languages/Frameworks 👨‍💻:
 
