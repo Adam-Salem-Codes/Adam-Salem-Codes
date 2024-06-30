@@ -11,11 +11,7 @@
 
 [![built with Codeium](https://codeium.com/badges/main)](https://codeium.com)
 
-<br/>
-<br/>
-<br/>
-
-## Programming Languages/Frameworks 👨‍💻:
+<h1>Programming Languages/Frameworks 👨‍💻:</h1>
 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -27,7 +23,7 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
-## Tools I Use 🔨:
+<h1>Tools I Use 🔨:</h1>
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adam-Salem-Codes)
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
