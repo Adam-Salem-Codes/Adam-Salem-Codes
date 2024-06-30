@@ -3,8 +3,6 @@
 
 ![Animation to welcome you to my github readme](./animation.svg)
 
----
-
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=Adam-Salem-Codes&show_icons=true&theme=discord_old_blurple"/>
 
 <img  align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adam-Salem-Codes&theme=discord_old_blurple&layout=compact" />
@@ -24,8 +22,6 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-
----
 
 ## Tools I Use 🔨:
 
