@@ -7,9 +7,9 @@
 
 <img width="48%" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adam-Salem-Codes&theme=dark"/>
 
-<img  width="48%" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Adam-Salem-Codes&theme=dark"/>
+<img  width="48%" align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Adam-Salem-Codes&theme=dark"/>
 
-<img width="48%"  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adam-salem-codes&layout=donut&theme=dark" />
+<img width="48%"  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adam-salem-codes&layout=donut&theme=dark" />
 
 <img src="https://codeium.com/profile/adam-salem-codes/card.png" />
 
