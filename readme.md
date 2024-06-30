@@ -3,17 +3,17 @@
 
 ![Animation to welcome you to my github readme](./animation.svg)
 
-<img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adam-Salem-Codes&theme=dark"/>
+<img width="48%" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adam-Salem-Codes&theme=dark"/>
 
-<img  width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Adam-Salem-Codes&theme=dark"/>
+<img  idth="50%" align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Adam-Salem-Codes&theme=dark"/>
 
-<img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adam-Salem-Codes&theme=dark"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adam-Salem-Codes&theme=dark"/>
 
-<img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adam-Salem-Codes&theme=dark"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adam-Salem-Codes&theme=dark"/>
 
-<img width="100%" src="https://codeium.com/profile/adam-salem-codes/card.png" />
+<img src="https://codeium.com/profile/adam-salem-codes/card.png" />
 
-<img width="100%" src="https://codeium.com/badges/main)](https://codeium.com"/>
+<img src="https://codeium.com/badges/main)](https://codeium.com"/>
 
 <h1>Programming Languages/Frameworks 👨‍💻:</h1>
 
