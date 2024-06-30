@@ -11,6 +11,10 @@
 
 [![built with Codeium](https://codeium.com/badges/main)](https://codeium.com)
 
+<br/>
+<br/>
+<br/>
+
 ## Programming Languages/Frameworks 👨‍💻:
 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
