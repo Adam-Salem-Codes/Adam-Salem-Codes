@@ -15,6 +15,10 @@
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adam-Salem-Codes&theme=dark"/>
 
+<img src="https://myreadme.vercel.app/api/embed/Adam-Salem-Codes?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adam-Salem-Codes&theme=tokyonight" alt="mystreak"/>
+
 <h1>Programming Languages/Frameworks 👨‍💻:</h1>
 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
